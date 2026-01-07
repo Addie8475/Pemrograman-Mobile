@@ -1,5 +1,19 @@
 # Pemrograman-Mobile
 
+### Link Youtube (User Experience Video Project)
+https://youtube.com/shorts/c_6oK1hwl-Q?feature=share
+
+### Application Demo
+https://youtube.com/shorts/NxkFApDI-Ro
+
+### Link Clickup
+https://sharing.clickup.com/90181758615/g/h/2kzm0vmq-738/903858b45eb7d43
+
+### Link Repository (Github)
+https://github.com/Addie8475/Pemrograman-Mobile.git
+
+https://github.com/Addie8475/2048-Puzzle-Game.git
+
 ## StoryBoard
 
 <img width="492" height="564" alt="storyboard" src="https://github.com/user-attachments/assets/ac44de82-3e7b-483f-a40a-2883cfa847c5" />
